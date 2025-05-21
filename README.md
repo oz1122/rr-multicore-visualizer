@@ -35,7 +35,3 @@ The program uses a **Round Robin scheduling algorithm** where processes are assi
 
 > ![image](https://github.com/user-attachments/assets/f1d57415-a0b8-4523-9158-fb8277d524a6)
 
-
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
